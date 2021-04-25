@@ -3,4 +3,5 @@ file1.txt
 First line of text.
 Second Line of text.
 Third line of text
+Fourth line of text
 
